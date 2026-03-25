@@ -30,6 +30,7 @@ Funções utilizadas:
 ## 👨‍💻 Desenvolvedor
 
 - Lucas Lopes Melania
+- Daniel Paes
 
 ---
 Projeto educacional desenvolvido na **ETEC** para prática de **JavaScript, módulos e manipulação de tabelas no HTML**.
